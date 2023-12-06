@@ -1,1 +1,1 @@
-# projeto de estudogit 
+# projeto de estudo
